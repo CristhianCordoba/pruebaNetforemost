@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\models\\modegestoressaldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\models\\modegestoressaldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\repositories\\bdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\repositories\\bdrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\models\\modeldeudores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\models\\modeldeudores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\models\\modegestores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\models\\modegestores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\controllers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\controllers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\controllers\\deudorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\controllers\\deudorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\views\\pages\\asociardeudorescalculobd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\views\\pages\\asociardeudorescalculobd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\views\\pages\\asociardeudores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\views\\pages\\asociardeudores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|c:\\users\\cordo\\documents\\prueba\\pruebanetforemost\\pruebagestores\\pruebagestores\\views\\pages\\deudores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E45D1C37-D443-40F7-94BB-204BCB2AEC33}|pruebaGestores\\pruebaGestores.csproj|solutionrelative:pruebagestores\\views\\pages\\deudores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeudoresController.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Controllers\\DeudoresController.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Controllers\\DeudoresController.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Controllers\\DeudoresController.cs",
+              "RelativeToolTip": "pruebaGestores\\Controllers\\DeudoresController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:37:40.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "pruebaGestores\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:10:02.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "pruebaGestores\\Controllers\\PagesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:09:10.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModeGestoresSaldos.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ModeGestoresSaldos.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Models\\ModeGestoresSaldos.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ModeGestoresSaldos.cs",
+              "RelativeToolTip": "pruebaGestores\\Models\\ModeGestoresSaldos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:37:50.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Controllers\\Startup.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Controllers\\Startup.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Controllers\\Startup.cs",
+              "RelativeToolTip": "pruebaGestores\\Controllers\\Startup.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:38:09.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "pruebaGestores\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:37:53.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModeGestores.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ModeGestores.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Models\\ModeGestores.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ModeGestores.cs",
+              "RelativeToolTip": "pruebaGestores\\Models\\ModeGestores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:17:19.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelDeudores.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ModelDeudores.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Models\\ModelDeudores.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Models\\ModelDeudores.cs",
+              "RelativeToolTip": "pruebaGestores\\Models\\ModelDeudores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:37:52.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BDRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Repositories\\BDRepository.cs",
+              "RelativeDocumentMoniker": "pruebaGestores\\Repositories\\BDRepository.cs",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Repositories\\BDRepository.cs",
+              "RelativeToolTip": "pruebaGestores\\Repositories\\BDRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wCEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:09:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsociarDeudoresCalculoBD.cshtml",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Pages\\AsociarDeudoresCalculoBD.cshtml",
+              "RelativeDocumentMoniker": "pruebaGestores\\Views\\Pages\\AsociarDeudoresCalculoBD.cshtml",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Pages\\AsociarDeudoresCalculoBD.cshtml",
+              "RelativeToolTip": "pruebaGestores\\Views\\Pages\\AsociarDeudoresCalculoBD.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T17:49:48.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsociarDeudores.cshtml",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Pages\\AsociarDeudores.cshtml",
+              "RelativeDocumentMoniker": "pruebaGestores\\Views\\Pages\\AsociarDeudores.cshtml",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Pages\\AsociarDeudores.cshtml",
+              "RelativeToolTip": "pruebaGestores\\Views\\Pages\\AsociarDeudores.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T10:02:53.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Deudores.cshtml",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Pages\\Deudores.cshtml",
+              "RelativeDocumentMoniker": "pruebaGestores\\Views\\Pages\\Deudores.cshtml",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Pages\\Deudores.cshtml",
+              "RelativeToolTip": "pruebaGestores\\Views\\Pages\\Deudores.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T10:25:18.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pruebaGestores\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cordo\\Documents\\Prueba\\pruebaNetforemost\\pruebaGestores\\pruebaGestores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pruebaGestores\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:46:31.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
